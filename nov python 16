@@ -1,0 +1,40 @@
+a=33
+b=89
+if a < b:
+  print("lionelmessi is greatest of alal time")
+  #elif
+a = 33
+b = 33
+if b > a:
+  print("b is greater than a")
+elif a == b:
+  print("a and b are equal")
+c=984
+d=984
+if b<a:
+    print('c has two type of heads')
+elif c==d:
+  print("c is best")
+e=198
+f=98
+if e > f:
+    print("e is greatst not th best")
+elif e==f:
+    print("hfgiuf")
+    #else
+a=200
+b=456
+if b>a:
+    print("fgiwgf")
+elif b==a:
+    print("jhfsj")
+else:
+    print("is it ypuo")
+c=98
+d=986
+if c>d:
+    print("is the world so cruel")
+elif c==d:
+    print("gsfdu")
+else:
+    print('chum chum chum')
